@@ -37,8 +37,15 @@ I came in third among 720 student in 16 universties
 
 ## Projects
 
-ANY project
+store
 
+php
+
+MySQL
+
+courses
+
+DevOps_
 <!-- ### Footer
 
 Last updated: aug 2022 -->
